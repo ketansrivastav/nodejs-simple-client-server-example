@@ -1,1 +1,1 @@
-# nodejs-simple-remote-assistant-tool
+# nodejs-simple-client-server-example
